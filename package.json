@@ -1,0 +1,12 @@
+{
+  "name": "pi-session-review",
+  "version": "0.1.3",
+  "type": "module",
+  "description": "手动执行一次独立的 Pi 会话审查",
+  "keywords": ["pi-package"],
+  "pi": { "extensions": ["./index.ts"] },
+  "peerDependencies": {
+    "@earendil-works/pi-coding-agent": "*",
+    "typebox": "*"
+  }
+}
