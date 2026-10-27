@@ -178,3 +178,7 @@ PI_REVIEW_HOST_ROOT=/path/to/pi-host node --test ./review.test.mjs
 覆盖参数解析、补充要求传递、JSONL 长行分页、模型与思考强度、true/false 报告投递、非法标记、取消、错误传播及配置重新读取。
 
 参考官方文档：[扩展接口](https://github.com/earendil-works/pi/blob/main/packages/coding-agent/docs/extensions.md)、[SDK](https://github.com/earendil-works/pi/blob/main/packages/coding-agent/docs/sdk.md)、[Pi 包格式](https://github.com/earendil-works/pi/blob/main/packages/coding-agent/docs/packages.md)。
+
+## 友情链接
+
+- [LINUX DO - 新的理想型社区](https://linux.do/)
